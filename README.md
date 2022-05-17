@@ -1,5 +1,7 @@
 # PacMen Exercise
 
+<a class="dropdown-item" href="https://amandapadgett.github.io/PacMenExercise/">Play PacMan</a></li>
+
 ## Description:
 
 This project will add multiple pacmen images and then move them across the screen in a random motion, with them bouncing off the sides and crossing over each other.
