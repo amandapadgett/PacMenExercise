@@ -16,6 +16,6 @@ I want to work on making the images change from mouth-open to mouth-closed, and 
 
 ## License Information:
 
-<a href="https://github.com/amandapadget/PacMenExercise/blob/main/LICENSE">MIT License</a>
+<a href="https://github.com/amandapadgett/PacMenExercise/blob/main/LICENSE">MIT License</a>
 
 <img src="https://github.com/amandapadgett/PacMenExercise/blob/main/PacMen_image.png" width="500" height="auto" />
