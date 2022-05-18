@@ -18,4 +18,4 @@ I want to work on making the images change from mouth-open to mouth-closed, and 
 
 <a href="https://github.com/amandapadgett/PacMenExercise/blob/main/LICENSE">MIT License</a>
 
-<img src="https://github.com/amandapadgett/PacMenExercise/blob/main/PacMen_image.png" width="500" height="auto" />
+<img src="https://github.com/amandapadgett/PacMenExercise/blob/main/Images/PacMen_image.png" width="500" height="auto" />
